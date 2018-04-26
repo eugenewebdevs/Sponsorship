@@ -9,7 +9,7 @@ Just contact mail@eugenewebdevs.com or on [facebook](https://www.facebook.com/eu
 
 # How we appreciate
 The local Eugene tech scene is growing and we are growing with it. With an average of 30 to 50 atendees at any given meetup.
-You will be mentioned as a sponser at each meet up and have your logo on our site. If your sponsership is disount these will be given out at the meetups. If the sponsership is :pizza: or say :beer: then we will be sure to mention where it came from as well as any promo material you want disaplyed while we stuff our faces with your fine product.
+You will be mentioned as a sponser at each meet up and have your logo on our site. If your sponsership is disount these will be given out at the meetups. If the sponsership is :pizza: or say :beer:, then we will be sure to mention where it came from as well as any promo material you want disaplyed while we stuff our faces with your fine product.
 
 ## Current Sponsors
 * [IDX Broker](https://idxbroker.com)
