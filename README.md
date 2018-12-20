@@ -1,15 +1,18 @@
 # Sponsorship
-Eugene Web Dev Sponsorship
+Eugene Web Dev Sponsorship! Help our community grow.
 
 ## How you can sponser
-Eugene Web Devs would always appreciate a bunch of money, food, beverages, or discounts on developer services. 
+Eugene Web Devs would always appreciate things like a bunch of money, foods, beverages, or discounts on developer services. 
+
 Free hosting, promo codes to text editors, t-shits, etc... anything where developers is the target market.
 
 # How to start sponsering
 Just contact us on [facebook](https://www.facebook.com/eugenewebdevs/)
 
 # How we appreciate
-The local Eugene tech scene is growing and we are growing with it. With an average of 30 to 50 atendees (measured via meetup.com) at any given meetup.
+The local Eugene tech scene is growing and we are growing with it. 
+
+With an average of 30 to 50 atendees (measured via meetup.com) at any given meetup.
 
 You will be mentioned as a sponser at each meet up and have your logo on our site. 
 If your sponsership is disount these will be given out at the meetups. 
@@ -18,7 +21,7 @@ If the sponsership is :pizza: or say :beer:, then we will be sure to mention whe
 
 ## Current Sponsors
 
-THANK YOU!!!!!
+THANK YOU CURRENT SPONSORS!!!!!
 
 * [IDX Broker](https://idxbroker.com) giving us a space and pizza.
 * [EugeneTech](https://eugenetech.org/) giving us promotion.
