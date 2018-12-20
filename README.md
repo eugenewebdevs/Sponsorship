@@ -17,6 +17,9 @@ If your sponsership is disount these will be given out at the meetups.
 If the sponsership is :pizza: or say :beer:, then we will be sure to mention where it came from as well as any promo material you want disaplyed while we stuff our faces with your fine product(s).
 
 ## Current Sponsors
+
+THANK YOU!!!!!
+
 * [IDX Broker](https://idxbroker.com) giving us a space and pizza.
 * [EugeneTech](https://eugenetech.org/) giving us promotion.
 * [Accelebrate](https://www.accelebrate.com/)giving us funds.
