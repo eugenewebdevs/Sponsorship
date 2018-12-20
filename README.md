@@ -25,5 +25,5 @@ THANK YOU CURRENT SPONSORS!!!!!
 
 * [IDX Broker](https://idxbroker.com) giving us a space and pizza.
 * [EugeneTech](https://eugenetech.org/) giving us promotion.
-* [Accelebrate](https://www.accelebrate.com/)giving us funds.
+* [Accelebrate](https://www.accelebrate.com/) giving us funds.
 * [Pizza My Cart](https://www.facebook.com/pizzamycart/) giving us a discount for large meet up orders.
