@@ -12,7 +12,7 @@ Just contact us on [facebook](https://www.facebook.com/eugenewebdevs/)
 # How we appreciate
 The local Eugene tech scene is growing and we are growing with it. 
 
-With an average of 30 to 50 atendees (measured via meetup.com) at any given meetup.
+With an average of 30 to 40 atendees (measured via meetup.com) at any given meetup.
 
 You will be mentioned as a sponser at each meet up and have your logo on our site. 
 If your sponsership is disount these will be given out at the meetups. 
