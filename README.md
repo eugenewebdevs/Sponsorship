@@ -17,7 +17,7 @@ With an average of 30 to 40 atendees (measured via meetup.com) at any given meet
 You will be mentioned as a sponser at each meet up and have your logo on our site. 
 If your sponsership is disount these will be given out at the meetups. 
 
-If the sponsership is :pizza: or say :beer:, then we will be sure to mention where it came from as well as any promo material you want disaplyed while we stuff our faces with your fine product(s).
+If the sponsership is :pizza: or say :beer:, then we will be sure to mention where it came from as well as any promo material you want displayed while we stuff our faces with your fine product(s).
 
 ## Current Sponsors
 
