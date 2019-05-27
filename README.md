@@ -1,12 +1,12 @@
 # Sponsorship
 Eugene Web Dev Sponsorship! Help our community grow.
 
-## How you can sponser
+## How you can sponsor
 Eugene Web Devs would always appreciate things like a bunch of money, foods, beverages, or discounts on developer services. 
 
 Free hosting, promo codes to text editors, t-shits, etc... anything where developers is the target market.
 
-# How to start sponsering
+# How to start sponsoring
 Just contact us on [facebook](https://www.facebook.com/eugenewebdevs/)
 
 # How we appreciate
